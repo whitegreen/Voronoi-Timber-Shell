@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/processing/libraries/dxf/library/dxf.jar"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/core.jar"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/PeasyCam.jar"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/ujmp-complete-0.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/hemesh2/hemesh-external-2_2_0.jar"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/hemesh2/hemesh.jar"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/hemesh2/javolution-6.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/hemesh2/jts.jar"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/hemesh2/trove-3.1a1.jar"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/dxfexportjava/DXFExporter.jar"/>
+	<classpathentry kind="lib" path="/Users/huahao/Documents/programmieren/old/gurobi.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
